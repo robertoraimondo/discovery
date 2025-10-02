@@ -1,5 +1,8 @@
 # SystemInfoGUI-Master Feature Documentation
 
+![System Information GUI Screenshot](gui.png)
+
+
 **Author:** Roberto Raimondo - IS Senior Systems Engineer II - CCOE IA AIDE  
 **Project:** Enterprise System Analysis Tool  
 
@@ -212,4 +215,5 @@
 ---
 
 *Complete feature documentation for SystemInfoGUI-Master v1.0*  
+
 *All features tested and verified operational - October 2, 2025*
