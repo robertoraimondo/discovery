@@ -1,5 +1,7 @@
 # System Information GUI Tool
 
+![System Information GUI Screenshot](gui.png)
+
 A PowerShell-based GUI application for remotely gathering system information from Windows computers.
 
 ## Features
@@ -113,4 +115,5 @@ discovery/
 
 - Created: October 1, 2025
 - Compatible with: Windows PowerShell 5.1+, PowerShell 7.x
+
 - Framework: Windows Forms (.NET Framework)
