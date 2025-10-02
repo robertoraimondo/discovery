@@ -1,5 +1,3 @@
-# discovery
-
 # System Information GUI Tool
 
 A PowerShell-based GUI application for remotely gathering system information from Windows computers.
