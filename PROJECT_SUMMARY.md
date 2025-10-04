@@ -2,7 +2,7 @@
 
 ![System Information GUI Screenshot](gui.png)
 
-**Author:** Roberto Raimondo - IS Senior Systems Engineer II - CCOE IA AIDE  
+**Author:** Roberto Raimondo - IS Senior Systems Engineer II
 **Created:** October 2, 2025  
 **Status:** Complete - Enterprise-Grade System Analysis Tool  
 **Version:** Master v1.0 - All Features Integrated
@@ -200,3 +200,4 @@ The SystemInfoGUI-Master.ps1 provides comprehensive system analysis capabilities
 
 
 *Project completed October 2, 2025 - Ready for enterprise deployment and system administration tasks.*
+
