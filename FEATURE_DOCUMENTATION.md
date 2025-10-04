@@ -3,7 +3,7 @@
 ![System Information GUI Screenshot](gui.png)
 
 
-**Author:** Roberto Raimondo - IS Senior Systems Engineer II - CCOE IA AIDE  
+**Author:** Roberto Raimondo - IS Senior Systems Engineer II
 **Project:** Enterprise System Analysis Tool  
 
 ## 🔧 Complete Feature Reference Guide
@@ -217,3 +217,4 @@
 *Complete feature documentation for SystemInfoGUI-Master v1.0*  
 
 *All features tested and verified operational - October 2, 2025*
+
